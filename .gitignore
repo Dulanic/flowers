@@ -1,0 +1,5 @@
+/.idea/
+/static/
+/venv/
+/flower_photos.tgz
+/flower_classifier_model.h5
